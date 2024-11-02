@@ -69,6 +69,7 @@ layout: statement
 ### 1. The Pharisees are concerned about impurity entering the body via ingestion.
 ### 2. Forbidden animals defile because they are *forbidden*, not because they *transmit* impurity.
 ### 3. Biblical law *nowhere* rules that one can become ritually impure through ingestion.
+### 4. Human waste is *indecent* but not *impure*.
 
 ---
 layout: quote
@@ -104,7 +105,7 @@ layout: quote
 “Then he called the crowd again and said to them, ‘Listen to me, all of you, and understand: <span v-mark="{color: '#59b58a', type: 'highlight', click: 1}">there is nothing outside a person that by going in can defile</span>, but the things that come out are what defile.’
 When he had left the crowd and entered the house, his disciples asked him about the parable.
 He said to them, ‘Then do you also fail to understand?
-Do you not see that whatever goes into a <span v-mark="{ color: '#597fb5', type: 'highlight', click: 3 }">person</span> from outside cannot defile, since it enters, not the heart but the stomach, and goes out into the sewer, <span v-mark="{ color: '#597fb5', type: 'highlight', click: 3 }">thus purifying all foods?</span>’
+Do you not see that whatever goes into <span v-mark="{ color: '#597fb5', type: 'highlight', click: 3 }">a person</span> from outside cannot defile, since it enters, not the heart but the stomach, and goes out into the sewer, <span v-mark="{ color: '#597fb5', type: 'highlight', click: 3 }">(the person) thus purifying all foods?</span>’
 And he said, ‘It is what comes out of a person that defiles.’”
 
 1. According to biblical law, ritual impurity is not caused by ingestion, whether the food is permitted or not.
@@ -114,11 +115,28 @@ And he said, ‘It is what comes out of a person that defiles.’”
 5. But you know what *else* comes ***out*** of a person? Not food, but evil.
 6. Evil causes *moral impurity*.
 
+<!--
+* Again, see Williams, "The Stomach Purifies All Foods", 383 for a full argument for translating καθαρίζων as modifying ἄνθρωπος.
+    * I am adopting his translation here.
+-->
+
 ---
 layout: statement
 ---
 
-# The Pharisees have misconstrued the defiling potential of what enters and leaves the human person.
+# Jesus denies the relevance of handwashing to the ritual purity of food, emphasizing that stricter attention to *moral* purity is needed.
+
+---
+layout: statement
+---
+
+# Said negatively, Jesus does not critique the Pharisees for leniency and then arbitrarily throw out an entire swath of commands.
+
+---
+layout: fact
+---
+
+# Wait, so Christians should observe *kashrut*?
 
 ---
 layout: qr-code
