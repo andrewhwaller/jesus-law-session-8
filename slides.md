@@ -89,7 +89,37 @@ And he said, ‘It is what comes out of a person that defiles.’”
     * This is typically treated as a narrative aside, i.e., Mark is explaining what Jesus is up to.
         * This reading sees this phrase explaining that Jesus intended to do away with kashrut in some way.
 * The problem is that this translation choice makes poor sense of some admittedly awkward syntax.
+    * Without going into the grammatical details (see Logan Williams, “The Stomach Purifies All Foods: Jesus’ Anatomical Argument in Mark 7.18–19,” NTS 70.1 (2024): 371–91 for a full treatment of the difficulties), it's highly unusual for a participle to be separated from the word it modifies in this way.
+        * For this to be a narrative aside describing Jesus's explanation, καθαρίζων must be modifying the unstated 3MS subject of λέγει in v. 18.
+        * This seems unlikely.
+            * A more likely explanation is that it modifies ἄνθρωπος in v. 18.
 -->
+
+---
+layout: quote
+---
+
+# Mark 7:14--20
+
+“Then he called the crowd again and said to them, ‘Listen to me, all of you, and understand: <span v-mark="{color: '#59b58a', type: 'highlight', click: 1}">there is nothing outside a person that by going in can defile</span>, but the things that come out are what defile.’
+When he had left the crowd and entered the house, his disciples asked him about the parable.
+He said to them, ‘Then do you also fail to understand?
+Do you not see that whatever goes into a <span v-mark="{ color: '#597fb5', type: 'highlight', click: 3 }">person</span> from outside cannot defile, since it enters, not the heart but the stomach, and goes out into the sewer, <span v-mark="{ color: '#597fb5', type: 'highlight', click: 3 }">thus purifying all foods?</span>’
+And he said, ‘It is what comes out of a person that defiles.’”
+
+1. According to biblical law, ritual impurity is not caused by ingestion, whether the food is permitted or not.
+2. So, whatever enters from outside *by definition cannot ritually defile*!
+3. Further, even food that is ritually impure is transformed by the human body via digestion.
+4. This is demonstrated by the fact that when food exits the body, it does so as *pure excrement*.
+5. But you know what *else* comes ***out*** of a person? Not food, but evil.
+6. Evil causes *moral impurity*.
+
+---
+layout: statement
+---
+
+# The Pharisees have misconstrued the defiling potential of what enters and leaves the human person.
+
 ---
 layout: qr-code
 ---
