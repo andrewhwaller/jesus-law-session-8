@@ -42,10 +42,7 @@ metadata: "On display at the Burnt House Museum in Jerusalem"
 layout: statement
 ---
 
-# Jesus's perspective on Torah takes into account the eschatological moment.
-
-## Matt 12:18: “‘Here is my servant, whom I have chosen...’”
-## Mk 2:19: “‘The wedding guests cannot fast while the bridegroom is with them, can they?’”
+# [Mark 7](https://www.esv.org/Mark+7/)
 
 ---
 layout: qr-code
