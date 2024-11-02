@@ -136,7 +136,16 @@ layout: statement
 layout: fact
 ---
 
-# Wait, so Christians should observe *kashrut*?
+# So, should Christians observe *kashrut*?
+
+<!--
+* If Jesus *didn't* declare all foods clean, does that mean that Christians are obligated by *kashrut*?
+    * My answer to this is a definite "no."
+    * However, we need to look in the right places for clear information on this.
+    * Just because Jesus isn't clearly doing away with parts of Torah here doesn't mean there isn't more context to be had.
+        * Acts 15 is much clearer on the relationship of gentile Christians to *kashrut* and Torah more generally.
+* The point here is that if Jesus isn't making a sweeping claim about *kashrut* then we need to stop reading him as if he is.
+-->
 
 ---
 layout: qr-code
